@@ -42,7 +42,7 @@
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/<your-username>/h-cracker.git
+git clone https://github.com/hamota268/h-cracker.git
 cd h-cracker
 ```
 
