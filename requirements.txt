@@ -1,0 +1,2 @@
+# H CRACKER uses the Python standard library.
+# Add third-party packages below and install.py will install them.
