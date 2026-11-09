@@ -264,12 +264,6 @@ Everything else (index build, binary search, caching, filenames) adapts automati
 
 ---
 
-## 📄 License
-
-Released under the **MIT License**. See [`LICENSE`](LICENSE) for details.
-
----
-
 <div align="center">
 
 **Made with 🐍, ⚡, and way too many hex characters.**
