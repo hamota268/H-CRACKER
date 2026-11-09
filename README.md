@@ -6,7 +6,7 @@
 | |_| |  | |   | |_) |  / _ \| |   | ' /|  _| | |_) |
 |  _  |  | |___|  _ <  / ___ \ |___| . \| |___|  _ <
 |_| |_|   \____|_| \_\/_/   \_\____|_|\_\_____|_| \_\
-                     H CRACKER
+                     H CRACKER by HAMOTA
 ```
 
 ### 🔓 Fast, offline hash lookup from the command line
